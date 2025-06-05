@@ -31,22 +31,19 @@ Open a terminal or command prompt and navigate to the project folder.
 
 Install required Python packages:
 
-bash
-Copy
-Edit
+
 pip install flask flask-cors
+
 Run the Flask app:
 
-bash
-Copy
-Edit
+
 python app.py
+
 Open your browser and visit:
 
-cpp
-Copy
-Edit
+
 http://127.0.0.1:5000
+
 Project Structure
 app.py — Flask backend and HTML frontend embedded in one file
 
