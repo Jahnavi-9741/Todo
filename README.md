@@ -2,7 +2,7 @@ To-Do List Web App
 
 A simple interactive and colorful To-Do list web application built with Flask (Python backend) and vanilla JavaScript + HTML/CSS frontend. This app lets you add, view, and delete tasks with a smooth UI and live updates.
 
-Features
+Features:
 
 Add tasks with a friendly, colorful UI
 
@@ -22,25 +22,17 @@ Prerequisites:
 
 Python 3.6+
 
-pip package manager
-
-Installation and Running
-Clone or download the project files.
-
 Open a terminal or command prompt and navigate to the project folder.
 
 Install required Python packages:
-
 
 pip install flask flask-cors
 
 Run the Flask app:
 
-
 python app.py
 
 Open your browser and visit:
-
 
 http://127.0.0.1:5000
 
